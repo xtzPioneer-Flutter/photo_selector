@@ -1,5 +1,5 @@
 # photo_selector
-一个Flutter轻量级的照片选择器
+一个Flutter轻量级的照片选择器,支持iOS和Android.
 ## 功能介绍
 * 类似微信朋友圈九宫格照片预览器
 * 可编辑的照片选择器
