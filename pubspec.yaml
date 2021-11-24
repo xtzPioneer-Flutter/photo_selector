@@ -1,6 +1,6 @@
 name: photo_selector
 description: 一个Flutter轻量级的照片选择器,支持iOS和Android.
-version: 0.0.1
+version: 0.0.2
 homepage: "https://github.com/xtzPioneer/photo_selector"
 
 environment:
