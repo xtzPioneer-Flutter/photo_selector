@@ -305,8 +305,8 @@ class _PhotoAddCell extends StatelessWidget {
   Widget build(BuildContext context) {
     return LayoutBuilder(
       builder: (context, constraints) {
-        double addImageSize = constraints.maxWidth / 3.5;
-        double addTextSize = constraints.maxWidth / 10.0;
+        double addImageSize = constraints.maxWidth / 3.0;
+        double addTextSize = constraints.maxWidth / 9.0;
         double borderRadius = constraints.maxWidth / 25.5;
         double addTextTop = constraints.maxWidth / 27.8;
         return GestureDetector(
